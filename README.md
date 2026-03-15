@@ -4,6 +4,8 @@
 [![UE Viewer](https://img.shields.io/badge/UE%20Viewer-b1597-blue?logo=unrealengine&logoColor=white)](https://www.gildor.org/en/projects/umodel)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-FModel-black?logo=github)](https://github.com/4sval/FModel)
 
+## Note
+I have shifted my focus to mainly export models from the current versions of World of Tanks Blitz and upload them to Sketchfab. Therefore, this repository no longer serves a purpose.
 
 ## Description
 This is just a simple repository with the purpose of storing all 3D models including variations from WoTB Reforged.
